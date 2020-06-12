@@ -1,9 +1,8 @@
 # string cat
-first = 'Matt'
-last = 'Nasi'
+first = 'John'
+last = 'Doe'
 name = first + ' ' + last
 puts name
-# puts 'Matt ' + 'Nasi'
 
 puts "\n"
 
